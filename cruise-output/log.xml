@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cruisecontrol>
+  <info>
+    <property name="logdir" value="/Users/vivianaranha/Library/Application Support/Go Agent/pipelines/PokemonIos/cruise-output" />
+    <property name="logfile" value="log.xml" />
+  </info>
+  <build time="0 minute(s) 1 second(s)" error="return code is 65">
+    <target name="exec">
+      <task name="xcodebuild" />
+    </target>
+  </build>
+</cruisecontrol>
